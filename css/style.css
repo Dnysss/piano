@@ -9,7 +9,7 @@
 
 body {
     background-color: #ddd;
-    background-image: url(/img/moon.jpg);
+    background-image: url(../img/moon.jpg);
     backdrop-filter: blur(2px);
     padding-top: 100px;
     padding-bottom: 138px;
@@ -25,8 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-    
+    justify-content: space-between;  
 }
 
 .controls {
